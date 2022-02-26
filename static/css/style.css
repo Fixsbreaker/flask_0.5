@@ -7,6 +7,10 @@ form.login_form {
     border-radius: 5px;
     padding: 30px;
 }
-input.form-control {
-    margin-top: auto
+.form-control#email {
+    margin-top: 15px
 }
+div.form-group {
+    margin-top: 5px
+}
+
